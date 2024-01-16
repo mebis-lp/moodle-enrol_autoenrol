@@ -41,6 +41,7 @@ The following placeholders may be included in the message:
 * Link to course {$a->link}
 * User email {$a->email}
 * User fullname {$a->fullname}';
+$string['customcssstyles'] = 'Customstyles';
 $string['enrolme'] = 'Enrol me';
 $string['general'] = 'General';
 $string['filtering'] = 'User Filtering';
